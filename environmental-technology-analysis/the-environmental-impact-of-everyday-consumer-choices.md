@@ -106,6 +106,7 @@ and broader systemic change. Understanding the connection between our everyday a
 the environment is the first step toward creating a more sustainable future.
 
 Works Cited 
+
 ● https://sentientmedia.org/overconsumption/ 
 
 ● https://www.brookings.edu/articles/ai-data-centers-and-water/ 
