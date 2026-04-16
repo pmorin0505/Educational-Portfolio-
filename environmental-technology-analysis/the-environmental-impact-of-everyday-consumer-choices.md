@@ -107,8 +107,12 @@ the environment is the first step toward creating a more sustainable future.
 
 Works Cited 
 ● https://sentientmedia.org/overconsumption/ 
+
 ● https://www.brookings.edu/articles/ai-data-centers-and-water/ 
+
 ● https://theamag.com/11094/fashion/unpacking-tj-maxx-insights-reality-of-one-of-the-mos
 t-famous-discount-stores/ 
 ● https://dailydot.com/tj-maxx-microtrend-paradise
+
 ● The Hidden Cost of Cheap Fashion: Why Temu, Amazon, and Shein Are Hurt - BLAQ
+
