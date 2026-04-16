@@ -1,66 +1,39 @@
 # Paul Morin – Academic & Technical Portfolio
 
-## ⭐ Start Here
+## 🚀 Start Here
 
-This repository showcases my academic writing, technical coursework, and programming assignments across cybersecurity, AI, environmental systems, and policy analysis.
-
----
-
-## 👨‍💻 About Me
-
-I am a college student focused on cybersecurity, artificial intelligence, and technology systems. My work explores how technology, infrastructure, and human behavior interact in real-world systems.
+This repository contains my academic and technical work in cybersecurity, programming, and technology-related analysis. It is organized to demonstrate my growth in technical skills, critical thinking, and writing.
 
 ---
 
-## 🎯 Focus Areas
-
-- Cybersecurity fundamentals and programming  
-- Artificial intelligence and emerging technologies  
-- Environmental systems and sustainability  
-- Policy, society, and technology analysis  
-- Structured cybersecurity coursework (CodePath CYB 101 & CYB 102)
-
----
-
-## 📂 Portfolio Structure
-
-### 🌱 Environmental Technology Analysis
-Essays on sustainability, resource usage, and environmental impacts of modern systems like data centers and consumer technology.
-
-### 🤖 Artificial Intelligence & Emerging Tech
-Analysis of AI systems, data centers, cloud computing, and technology infrastructure.
-
-### 🏛 Current Events & Policy Analysis
-Writing focused on laws, media, society, and how policy interacts with technology.
+## 📂 Repository Structure
 
 ### 💻 Cybersecurity Programming
-Coding assignments, labs, and technical cybersecurity exercises.
+Assignments, labs, and hands-on coding exercises related to cybersecurity fundamentals.
+
+### 🏛 Current Events & Policy Analysis
+Writing and analysis on laws, society, and technology-related policy topics.
 
 ### 📘 CodePath Coursework
-Structured cybersecurity training (CYB 101 & CYB 102).
+Structured cybersecurity training (CYB 101 & CYB 102), including programming and security concepts.
 
 ---
 
-## 📌 Featured Work
+## 🎯 What This Shows
 
-- Environmental impact of everyday consumer choices  
-- Climate change detection and attribution analysis  
-- AI infrastructure and data center analysis  
-- Cybersecurity programming assignments  
-
----
-
-## 🚀 Career Goal
-
-To build a career in cybersecurity, cloud infrastructure, or technology systems where I can work with secure, scalable, and modern digital environments.
+- Foundational cybersecurity programming skills  
+- Ability to analyze real-world technology and policy issues  
+- Technical and academic writing ability  
+- Progression in structured cybersecurity learning  
 
 ---
 
-## 📈 Purpose of This Portfolio
+## 🚀 Goal
 
-This portfolio demonstrates:
+To build a strong foundation for a career in cybersecurity, cloud computing, or technology infrastructure.
 
-- Technical and analytical thinking  
-- Clear written communication  
-- Understanding of real-world technology systems  
-- Growth in cybersecurity and programming skills  
+---
+
+## 📌 How to Navigate
+
+Start by exploring the folders above. Each section contains assignments, essays, or projects related to that topic.
