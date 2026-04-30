@@ -88,3 +88,27 @@ git commit --allow-empty --message="SSH signing test"
 
 Verification:
 git show --show-signature
+
+## Key Concepts Learned
+
+### Authentication
+SSH keys replace passwords and provide more secure login methods.
+
+### Encryption
+Public/private key cryptography ensures only intended recipients can read data.
+
+### Integrity
+Digital signatures ensure files and commits are not altered.
+
+## Why This Matters in Cybersecurity
+
+SSH keys are used in real systems for:
+
+- Secure server access (cloud, Linux servers, DevOps systems)
+- Encrypting sensitive data in transit
+- Verifying code integrity in development environments
+- Preventing unauthorized access through password attacks
+
+## Reflection
+
+This project helped me understand how cryptography is applied in real-world cybersecurity systems. It showed how authentication, encryption, and integrity work together to protect systems from unauthorized access and tampering.
